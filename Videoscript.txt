@@ -1,0 +1,18 @@
+- Titelfolie Vehicle Detection and Counting
+- Folie mit YOLO Logo 
+Wir haben YOLO benutzt um Gefährte in Bildern zu erkennen...
+- Folie mit Auto, Motorrad, etc.
+...wie Autos, Motorräder.
+- Folie mit Beispiel
+Die Objekte in den Bildern werden mit einem Rahmen markiert.
+Wie funktioniert das?
+- Folie mit Bild mit allen Rahmen
+YOLO erkennt viele mögliche Rahmen für ein Objekt. 
+Aus diesen wird der korrekte Rahmen herausgefiltert durch Non-Max-Suppression und Intersection over Union
+- Folie mit Bild mit mehreren Objekten
+Mehrere Objekte können in einem Bild und auch überlappend gefunden werden
+Aber was ist noch cooler als Autos in Bildern finden?
+- Folie mit Video
+Autos in Videos finden! Also haben wir dafür gesorgt, dass das Modell auch in Videos klassifizieren kann
+- Finale Folie
+Vielen Dank für die Aufmerksamkeit für unser Projekt

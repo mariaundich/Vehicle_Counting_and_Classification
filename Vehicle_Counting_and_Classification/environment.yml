@@ -1,4 +1,4 @@
-name: easy_vehicle
+name: vehicle
 channels:
   - defaults
   - conda-forge

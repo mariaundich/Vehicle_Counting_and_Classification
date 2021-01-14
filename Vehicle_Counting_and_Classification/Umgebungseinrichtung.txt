@@ -1,7 +1,7 @@
 Umgebungseinrichtung
 
 - Öffne Anaconda Promt
-- navigiere zu dem Verzeichnis
+- navigiere zu dem Verzeichnis des Projekts
 - gib ein: conda env create -f environment.yml
-- zum aktivieren: conda activate easy_vehicle
+- zum aktivieren: conda activate vehicle
 - zum deaktivieren: conda deactivate
