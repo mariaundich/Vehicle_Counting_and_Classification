@@ -78,7 +78,7 @@ target/
 .ipynb_checkpoints
 
 # Model parameters
-/yolo.h5
+#/yolo.h5
 
 # IPython
 profile_default/
